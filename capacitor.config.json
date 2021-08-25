@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Amigo da Obra",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

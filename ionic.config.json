@@ -1,0 +1,8 @@
+{
+  "name": "Amigo da Obra",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "ef0a35c3"
+}
